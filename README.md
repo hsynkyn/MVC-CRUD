@@ -1,4 +1,4 @@
-# CRUD İşlemleri Örnek Projesi
+# CRUD İşlemleri
 Bu proje, yazılım geliştirmede en temel operasyonlardan biri olan CRUD (Create, Read, Update, Delete) işlemlerini örnekleyerek anlatmak amacıyla hazırlanmıştır. CRUD, veri yönetiminin temelini oluşturur ve modern uygulamaların vazgeçilmez bir parçasıdır.
 
 **İçerik**
